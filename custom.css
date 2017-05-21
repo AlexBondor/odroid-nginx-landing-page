@@ -1,0 +1,21 @@
+.link {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border: 1px solid gray;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.content {
+    padding-left: 10px;
+}
+
+.tc-link {
+    background-image: url("tc.png");
+}
+
+.yt-link {
+    background-image: url("yt.png");
+}
